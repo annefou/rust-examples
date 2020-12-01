@@ -6,3 +6,9 @@ Examples with Rust programming language
 
 Try it out yourself!
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/annefou/rust-examples/HEAD)
+
+## Other Rust projects/examples
+
+- [Rust demo](https://github.com/dev-cafe/rust-demo)
+- [Plotters - A Rust drawing library focus on data plotting](https://github.com/38/plotters)
+- [Rust api for vega-lite v4](https://github.com/procyon-rs/vega_lite_4.rs)
