@@ -1,3 +1,5 @@
 cmake
 gcc
 libnetcdf-dev
+nano
+vim
