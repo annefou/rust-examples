@@ -4,4 +4,4 @@ echo 'export PATH="$HOME/.cargo/bin:$PATH"' >> ~/.bashrc
 
 $HOME/.cargo/bin/rustup component add rust-src
 $HOME/.cargo/bin/cargo install evcxr_jupyter
-evcxr_jupyter --install
+#evcxr_jupyter --install
