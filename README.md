@@ -12,3 +12,8 @@ Try it out yourself!
 - [Rust demo](https://github.com/dev-cafe/rust-demo)
 - [Plotters - A Rust drawing library focus on data plotting](https://github.com/38/plotters)
 - [Rust api for vega-lite v4](https://github.com/procyon-rs/vega_lite_4.rs)
+
+## Documentation
+
+- [Rust by examples](https://doc.rust-lang.org/rust-by-example/)
+- [Holy Rust modules, Batman! - How I structure Rust projects](https://bast.fr/blog/holy-rust-modules-batman/)
